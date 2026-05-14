@@ -8,6 +8,14 @@ h1{
     padding: 40px;
     background-color: #111;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px;
+}
 
 .feedback-form{
     display: flex;
